@@ -1,4 +1,4 @@
-## Day 3 — 22/01/2026 (Thursday)
+## Day 4 — 22/01/2026 (Thursday)
 
 ### Agenda
 - Learn all the basics which I have covered in today’s session
